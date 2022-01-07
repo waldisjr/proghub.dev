@@ -1,5 +1,5 @@
 def plainsAndValleys(land):
-  # великолепный код тут
+    pass
 
 
 if __name__ == '__main__':
