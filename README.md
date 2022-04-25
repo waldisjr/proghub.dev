@@ -1,3 +1,3 @@
-# proghub.ru
+# proghub.dev
 
-me: https://proghub.ru/profile/wjr
+me: https://proghub.dev/profile/wjr
